@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coba2EvanEdwin", "Coba2EvanEdwin.csproj", "{814DAD3E-505C-074C-12F7-7895777DA60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coba2EvanEdwin.Plugins", "Coba2EvanEdwin.Plugins.csproj", "{B879B629-3096-C9FD-6F56-CBDE880C3C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coba2EvanEdwin.Editor", "Coba2EvanEdwin.Editor.csproj", "{CF06CD0B-A03D-6F4B-33B0-070D7B4002E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814DAD3E-505C-074C-12F7-7895777DA60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814DAD3E-505C-074C-12F7-7895777DA60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814DAD3E-505C-074C-12F7-7895777DA60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814DAD3E-505C-074C-12F7-7895777DA60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B879B629-3096-C9FD-6F56-CBDE880C3C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B879B629-3096-C9FD-6F56-CBDE880C3C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B879B629-3096-C9FD-6F56-CBDE880C3C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B879B629-3096-C9FD-6F56-CBDE880C3C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF06CD0B-A03D-6F4B-33B0-070D7B4002E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF06CD0B-A03D-6F4B-33B0-070D7B4002E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF06CD0B-A03D-6F4B-33B0-070D7B4002E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF06CD0B-A03D-6F4B-33B0-070D7B4002E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
